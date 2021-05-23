@@ -6,3 +6,5 @@ Hello. This repository is for edits to the base mod that has been included with 
 These updates will be made available through this repository as soon as I'm able to get them tested and uploaded.
 
 The most up-to-date version of the mod will also be ran on the SIEGE Tribes server, which will be public and available for anyone to join and play/test the mod out as they wish.
+
+Feel free to visit https://siege.flarum.cloud/ for forums related to this project.
